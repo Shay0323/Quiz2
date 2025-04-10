@@ -1,0 +1,3 @@
+After configuring all the LEDs and buttons to be corresponding. I had an issue with having my "IF" statements set to HIGH instead of LOW and it kept my LEDs
+all in the ON stage. Figured out they should be set to LOW, and the "ELIF" statement at the end for each should be set to HIGH. Only other issue is that the brightness of my
+LEDs for Green and Red and super low, while Blue is super high.
